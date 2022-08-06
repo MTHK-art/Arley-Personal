@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+				
+				<head>
+								<title>My Personal</title>
+								<link rel="stylesheet" href="./css/index.css">
+								<link rel="icon" href="img/favicon.png">
+				</head>
+				<body>
+								<h1>My Personal Data</h1>
+								<p>Name(Min thiha Kyaw)</p>
+								<p>Nice Name(Arley)</p>
+								<p>brith(1996/Feburary/04)</p>
+				</body>
+</html>
